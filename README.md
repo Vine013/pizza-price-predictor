@@ -8,6 +8,9 @@ Este projeto é um aplicativo Streamlit interativo que prevê o preço de uma pi
 - Gráfico de Preços: Visualize um gráfico mostrando como o preço varia de acordo com o diâmetro, com destaque para o valor selecionado.
 - Informações sobre o Modelo: Saiba mais sobre o modelo de regressão linear utilizado e os dados de treinamento.
 
+## 🌎 Acesse o Projeto Online 🌎
+[Pizza Price Predictor](https://pizza-price-predictor.streamlit.app/)
+
 ## 📂 Estrutura do Projeto 📂
 - app.py: Contém o código principal do aplicativo Streamlit.
 - pizzas.csv: Arquivo CSV com os dados de treinamento (diâmetro e preço das pizzas).
